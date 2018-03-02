@@ -36,4 +36,4 @@ Criterias defining the open4all project quality. You or your project need not be
 - Tickets
 
 #### 1.4) CHANGELOG ( 3️⃣ points )
-- automated or manual
+- automated or manual 
